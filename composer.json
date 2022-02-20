@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "CatCasCarSkillboxSymfony\\ArticleContentProvider\\": "src"
+            "CatCasCarSkillboxSymfony\\ArticleContentProviderBundle\\": "src"
         }
     }
 }
