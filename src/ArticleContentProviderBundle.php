@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace CatCasCarSkillboxSymfony\ArticleContentProvider;
+namespace CatCasCarSkillboxSymfony\ArticleContentProviderBundle;
 
-use CatCasCarSkillboxSymfony\ArticleContentProvider\DependencyInjection\ArticleContentProviderExtension;
+use CatCasCarSkillboxSymfony\ArticleContentProviderBundle\DependencyInjection\ArticleContentProviderExtension;
 use Symfony\Component\DependencyInjection\Extension\ExtensionInterface;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

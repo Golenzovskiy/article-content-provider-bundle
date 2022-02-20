@@ -1,8 +1,8 @@
 <?php
 
-namespace CatCasCarSkillboxSymfony\ArticleContentProvider;
+namespace CatCasCarSkillboxSymfony\ArticleContentProviderBundle;
 
-use CatCasCarSkillboxSymfony\ArticleContentProvider\Event\OnBeforeWordPasteEvent;
+use CatCasCarSkillboxSymfony\ArticleContentProviderBundle\Event\OnBeforeWordPasteEvent;
 use Symfony\Contracts\EventDispatcher\EventDispatcherInterface;
 
 class ArticleContentProvider

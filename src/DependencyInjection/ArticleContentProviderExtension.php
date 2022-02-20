@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace CatCasCarSkillboxSymfony\ArticleContentProvider\DependencyInjection;
+namespace CatCasCarSkillboxSymfony\ArticleContentProviderBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;

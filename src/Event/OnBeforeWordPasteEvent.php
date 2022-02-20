@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace CatCasCarSkillboxSymfony\ArticleContentProvider\Event;
+namespace CatCasCarSkillboxSymfony\ArticleContentProviderBundle\Event;
 
 use Symfony\Contracts\EventDispatcher\Event;
 
