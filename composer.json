@@ -1,0 +1,17 @@
+{
+    "name": "sg/article-content-provider-bundle",
+    "authors": [
+        {
+            "name": "Golenzovskiy",
+            "email": "Golenzovskiy@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "CatCasCarSkillboxSymfony\\ArticleContentProvider\\": "src"
+        }
+    }
+}
